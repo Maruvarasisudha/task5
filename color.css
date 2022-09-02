@@ -1,0 +1,498 @@
+*{  margin:0% ;
+    height:50px ;
+    width: 100%; 
+    padding:0%
+}
+.body
+{
+
+  width:100%;
+  height: 100%;
+  background-color: green;
+}
+.body1{
+    width:100%;
+    height: 50px;
+    
+}
+.a1{
+    width: 50%;
+    background-color: pink;
+    float: left;
+}
+
+
+.a2{
+
+    width: 50%;
+    background-color: rgb(20, 220, 220);
+    float: left;
+}
+
+.b1{
+
+    width: 33.3%;
+    background-color: red;
+    float: left;
+}
+.b2{
+
+    width: 33.3%;
+    background-color: blueviolet;
+    float: left;
+}
+.b3{
+
+    width: 33.3%;
+    background-color: green;
+    float: left;
+}
+                                  
+.c1{
+
+    width: 25%;
+    background-color:orange;
+    float: left;
+
+}
+.c2{
+
+    width: 25%;
+    background-color:black;
+    float: left;
+
+}
+.c3{
+
+    width: 25%;
+    background-color:olive;
+    float: left;
+
+}
+.c4{
+
+    width: 25%;
+    background-color:brown;
+    float: left;
+
+}
+.d1{
+
+    width: 20%;
+    background-color:darkcyan;
+    float: left;
+
+}
+.d2{
+
+    width: 20%;
+    background-color:gold;
+    float: left;
+
+}
+.d3{
+
+    width: 20%;
+    background-color:springgreen;
+    float: left;
+
+}
+.d4{
+
+    width: 20%;
+    background-color:greenyellow;
+    float: left;
+
+}.d5{
+
+    width: 20%;
+    background-color:red;
+    float: left;
+
+
+}
+.e1{
+
+    width: 16.6%;
+    background-color:green;
+    float: left;
+
+
+}
+.e2{
+
+    width: 16.6%;
+    background-color:blueviolet;
+    float: left;
+
+
+}
+.e3{
+
+    width: 16.6%;
+    background-color:orangered;
+    float: left;
+}
+.e4{
+
+    width: 16.6%;
+    background-color:black;
+    float: left;
+}
+.e5{
+
+    width: 16.6%;
+    background-color:red;
+    float: left;
+}
+.e6{
+
+    width: 16.9%;
+    background-color:gray;
+    float: left;
+}
+.f1{
+
+    width: 14.28%;
+    background-color:blue;
+    float: left;
+}
+.f2{
+
+    width: 14.28%;
+    background-color:sienna;
+    float: left;
+}
+.f3{
+
+    width: 14.28%;
+    background-color:darkolivegreen;
+    float: left;
+}.f4{
+
+    width: 14.28%;
+    background-color:yellow;
+    float: left;
+}
+.f5{
+
+    width: 14.28%;
+    background-color:royalblue;
+    float: left;
+}
+.f6{
+
+    width: 14.28%;
+    background-color:rgb(222, 8, 230);
+    float: left;
+}
+.f7{
+
+    width: 14.28%;
+    background-color:darksalmon;
+    float: left;
+}
+.g1{
+
+    width: 12.50%;
+    background-color:darksalmon;
+    float: left;
+}
+.g2{
+
+    width: 12.50%;
+    background-color:navy;
+    float: left;
+}
+.g3{
+
+    width: 12.50%;
+    background-color:fuchsia;
+    float: left;
+}
+.g4{
+
+    width: 12.50%;
+    background-color:springgreen;
+    float: left;
+}
+.g5{
+
+    width: 12.50%;
+    background-color:brown;
+    float: left;
+}
+.g6{
+
+    width: 12.50%;
+    background-color:tomato;
+    float: left;
+}
+.g7{
+
+    width: 12.50%;
+    background-color:green;
+    float: left;
+}
+.g8{
+
+    width: 12.50%;
+    background-color:blue;
+    float: left;
+}
+.h1{
+
+    width: 11.111%;
+    background-color:rgb(243, 55, 8);
+    float: left;
+}
+.h2{
+
+    width: 11.111%;
+    background-color:olivedrab;
+    float: left;
+}
+.h3{
+
+    width: 11.111%;
+    background-color:orangered;
+    float: left;
+}
+.h4{
+
+    width: 11.111%;
+    background-color:greenyellow;
+    float: left;
+}
+.h5{
+
+    width: 11.111%;
+    background-color:blue;
+    float: left;
+}
+.h6{
+
+    width: 11.111%;
+    background-color:rebeccapurple;
+    float: left;
+}
+.h7{
+
+    width: 11.111%;
+    background-color:rgb(25, 207, 19);
+    float: left;
+}
+.h8{
+
+    width: 11.111%;
+    background-color:brown;
+    float: left;
+}
+.h9{
+
+    width: 11.111%;
+    background-color:blanchedalmond;
+    float: left;
+}
+.j1{
+
+    width: 11.111%;
+    background-color:blue;
+    float: left;
+}
+.j2{
+
+    width: 11.111%;
+    background-color:palevioletred;
+    float: left;
+}
+
+.j3{
+
+    width: 10%;
+    background-color:blueviolet;
+    float: left;
+}
+.j4{
+
+    width: 10%;
+    background-color:darkkhaki;
+    float: left;
+}
+.j5{
+
+    width: 10%;
+    background-color:lawngreen;
+    float: left;
+}
+.j6{
+
+    width: 10%;
+    background-color:rgb(20, 220, 220);
+    float: left;
+}
+.j7{
+
+    width: 10%;
+    background-color:darkmagenta;
+    float: left;
+}
+.j8{
+
+    width: 10%;
+    background-color:yellow;
+    float: left;
+}
+.j9{
+
+    width: 10%;
+    background-color:red;
+    float: left;
+}
+.j10{
+
+    width: 7.6%; 
+    background-color:purple;
+    float: left;
+}
+.i1{
+
+    width: 9%; 
+    background-color:purple;
+    float: left;
+}
+.i2{
+
+    width: 9%; 
+    background-color:aqua;
+    float: left;
+}.i3{
+
+    width: 9%; 
+    background-color:palevioletred;
+    float: left;
+}.i4{
+
+    width: 9%; 
+    background-color:greenyellow;
+    float: left;
+}.i5{
+
+    width: 9%; 
+    background-color:rgb(203, 216, 20);
+    float: left;
+}.i6{
+
+    width: 9%; 
+    background-color:rgb(128, 87, 0);
+    float: left;
+}.i7{
+
+    width: 9%; 
+    background-color:rgb(0, 128, 6);
+    float: left;
+}.i8{
+
+    width: 9%; 
+    background-color:rgb(49, 7, 7);
+    float: left;
+}.i9{
+
+    width: 9%; 
+    background-color:rgb(0, 70, 128);
+    float: left;
+}.i10{
+
+    width: 9%; 
+    background-color:rgb(236, 115, 15);
+    float: left;
+}.i11{
+
+    width: 10%; 
+    background-color:darkgreen;
+    float: left;
+}
+.k1{
+
+    width: 8%; 
+    background-color:white;
+    float: left;}
+
+.k2{
+
+    width: 8%; 
+    background-color:rgb(231, 23, 179);
+    float: left;
+}
+.k3{
+
+    width: 8%; 
+    background-color:rgb(231, 23, 179);
+    float: left;
+}
+.k4{
+
+    width: 8%; 
+    background-color:rgb(231, 23, 179);
+    float: left;
+}
+.k5{
+
+    width: 8%; 
+    background-color:silver;
+    float: left;
+}
+.k6{
+
+    width: 8%; 
+    background-color:blue;
+    float: left;
+}
+.k7{
+
+    width: 8%; 
+    background-color:black;
+    float: left;
+}.k8{
+
+    width: 8%; 
+    background-color:pink;
+    float: left;
+}.k9{
+
+    width: 8%; 
+    background-color:olivedrab;
+    float: left;
+}.k10{
+
+    width: 8%; 
+    background-color:burlywood;
+    float: left;
+}.k11{
+
+    width: 8%; 
+    background-color:yellowgreen;
+    float: left;
+}.k12{
+
+    width: 12%; 
+    background-color:red;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
